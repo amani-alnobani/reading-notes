@@ -5,6 +5,6 @@
 
 # How does I remind myself to keep it in a growth mindset?  
 
-1. I look up forward to achieve more
-2. Put a different paths to be continued 
+1. **I look up forward to achieve more**
+2. *Put a different paths to be continued* 
 3. Keeping up with the latest technology such as [LTT](https://www.youtube.com/user/linustechtips)
