@@ -6,4 +6,5 @@
 # **Table of content**
 *files*  |  *Content* 
 -------- |  ---------
-[Growth]()
+|[Growth](https://amani-alnobani.github.io/reading-notes/Growthmindset)| Growth mindset link
+[Read01](https://amani-alnobani.github.io/reading-notes/Read01)|markdown example
