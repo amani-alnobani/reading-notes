@@ -11,4 +11,4 @@
 |[Read01](https://amani-alnobani.github.io/reading-notes/Read01) | markdown example |
 |[Read02](https://amani-alnobani.github.io/reading-notes/Read02) | git |
 |[Read03](https://amani-alnobani.github.io/reading-notes/Read03) | html and wireframe |
-|[Read04](https://amani-alnobani.github.io/reading-notes/Read04) | JavaScript |
+|[Read05](https://amani-alnobani.github.io/reading-notes/Read05) | operators |
