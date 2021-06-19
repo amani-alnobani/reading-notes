@@ -13,5 +13,9 @@
 |[Read03](https://amani-alnobani.github.io/reading-notes/Read03) | html and wireframe |
 |[Read04](https://amani-alnobani.github.io/reading-notes/Read04) | JS |
 |[Read05](https://amani-alnobani.github.io/reading-notes/Read05) | operators |
+<<<<<<< HEAD
 |[Read06](https://amani-alnobani.github.io/reading-notes/Read06) | CSS |
 |[Read07](https://amani-alnobani.github.io/reading-notes/Read07) | Programming with JavaScript |
+=======
+|[Read06](https://amani-alnobani.github.io/reading-notes/Read06) | CSS |
+>>>>>>> d1fe5d906d968b46bfdfc69cdaa0d3ab2feb5bc9
