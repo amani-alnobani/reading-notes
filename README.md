@@ -10,5 +10,8 @@
 | [Growth](https://amani-alnobani.github.io/reading-notes/Growthmindset)| Growth mindset link |
 |[Read01](https://amani-alnobani.github.io/reading-notes/Read01) | markdown example |
 |[Read02](https://amani-alnobani.github.io/reading-notes/Read02) | git |
+|[Read03](https://amani-alnobani.github.io/reading-notes/Read03) | html and wireframe |
 |[Read04](https://amani-alnobani.github.io/reading-notes/Read04) | JS |
 |[Read05](https://amani-alnobani.github.io/reading-notes/Read05) | operators |
+|[Read06](https://amani-alnobani.github.io/reading-notes/Read06) | CSS |
+|[Read07](https://amani-alnobani.github.io/reading-notes/Read07) | Programming with JavaScript |
