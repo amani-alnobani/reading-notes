@@ -16,7 +16,9 @@
 - Unary operators
 - Relational operators
 
+
 #### Example of Assignment operators:
+
 | *Name*      | *Shorthand operator	* |
 | ----------- | ----------- |
 | Assignment | x = y |
