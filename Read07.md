@@ -24,7 +24,8 @@
 |Subtraction assignment | x -= y |
 |Logical AND assignment | x &&= y |
 |Division assignment | x /= y |
-**for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+
+##### **for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
 #### Example of Comparison operators:
 | *Operator*      | *Description	* |
 | ----------- | ----------- |
@@ -32,10 +33,11 @@
 |Not equal (!=) | Returns true if the operands are not equal.|
 |Greater than (>) |Returns true if the left operand is greater than the right operand. |
 |Less than (<)|Returns true if the left operand is less than the right operand. |
-**for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+
+##### **for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
 
 ### **Expressions**:
-**JavaScript** has the following expression categories:
+##### **JavaScript** has the following expression categories:
 - Arithmetic: evaluates to a number, for example 3.14159. (Generally uses arithmetic operators.)
 - String: evaluates to a character string, for example, "Fred" or "234". (Generally uses string operators.)
 - Logical: evaluates to true or false. (Often involves logical operators.)
