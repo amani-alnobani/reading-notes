@@ -25,7 +25,11 @@
 |Logical AND assignment | x &&= y |
 |Division assignment | x /= y |
 
+<<<<<<< HEAD
 ##### **for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+=======
+**for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+>>>>>>> 7ce5b772226f96019d76118d3ed347230dc04ba9
 #### Example of Comparison operators:
 | *Operator*      | *Description	* |
 | ----------- | ----------- |
@@ -34,7 +38,11 @@
 |Greater than (>) |Returns true if the left operand is greater than the right operand. |
 |Less than (<)|Returns true if the left operand is less than the right operand. |
 
+<<<<<<< HEAD
 ##### **for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+=======
+**for more visit**: [operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+>>>>>>> 7ce5b772226f96019d76118d3ed347230dc04ba9
 
 ### **Expressions**:
 ##### **JavaScript** has the following expression categories:
