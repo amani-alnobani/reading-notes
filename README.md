@@ -24,8 +24,8 @@
 | *file*      | *content* |
 | ----------- | ----------- |
 |[Lab01a]( https://amani-alnobani.github.io/ReadingNote201/lab01a)| Features of Markdown |
-|[Read01](https://amani-alnobani.github.io/reading-notes/201Read01) | SUMMARY1 |
-|[Read02] | 3 |
+|[Read01](https://amani-alnobani.github.io/reading-notes/201Read01) | SUMMARY01 |
+|[Read02](https://amani-alnobani.github.io/reading-notes/201Read02) | SUMMARY02 |
 |[Read03] | 4 |
 |[Read04] | 5 |
 |[Read05] | 6 |
