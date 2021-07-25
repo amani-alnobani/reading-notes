@@ -35,6 +35,6 @@
 |[Read09](https://amani-alnobani.github.io/reading-notes/201Read09) | SUMMARY09 |
 |[Read10](https://amani-alnobani.github.io/reading-notes/201Read10) | SUMMARY10 |
 |[Read11](https://amani-alnobani.github.io/reading-notes/201Read11) | SUMMARY11 |
-|[Read12] | 13 |
+|[Read12](https://amani-alnobani.github.io/reading-notes/201Read12) | SUMMARY12 |
 |[Read13] | 14 |
 |[Read14] | 15 |
