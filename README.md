@@ -46,7 +46,7 @@
 
 | *file*      | *content* |
 | ----------- | ----------- |
-|[Lab01a]( https://amani-alnobani.github.io/ReadingNote201/lab01a)| Features of Markdown |
+|[Lab01a]( https://amani-alnobani.github.io/reading-notes/class01)| class01 read |
 |[Read01] |  |
 |[Read02]| SUMMARY02 |
 |[Read03]| SUMMARY03 |
@@ -86,3 +86,6 @@
 |[Read13]| SUMMARY13 |
 |[Read14a]| SUMMARY14a |
 |[Read14b]| SUMMARY14b |
+
+
+## Things I want to know more about
