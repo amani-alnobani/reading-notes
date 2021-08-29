@@ -46,8 +46,8 @@
 
 | *file*      | *content* |
 | ----------- | ----------- |
-|[Lab01a]( https://amani-alnobani.github.io/reading-notes/class01)| class01 read |
-|[Read01] |  |
+|[read01](https://amani-alnobani.github.io/reading-notes/class01)| class01 read |
+|[read02](https://amani-alnobani.github.io/reading-notes/class01) | class02 read |
 |[Read02]| SUMMARY02 |
 |[Read03]| SUMMARY03 |
 |[Read04]| SUMMARY04 |
