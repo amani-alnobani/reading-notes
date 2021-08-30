@@ -48,7 +48,7 @@
 | ----------- | ----------- |
 |[read01](https://amani-alnobani.github.io/reading-notes/class01)| class01 read |
 |[read02](https://amani-alnobani.github.io/reading-notes/class02) | class02 read |
-|[Read02]| SUMMARY02 |
+|[read03]((https://amani-alnobani.github.io/reading-notes/class03))| class03 read |
 |[Read03]| SUMMARY03 |
 |[Read04]| SUMMARY04 |
 |[Read05]| SUMMARY05 |
