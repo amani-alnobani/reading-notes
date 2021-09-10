@@ -56,7 +56,7 @@
 |[read08](https://amani-alnobani.github.io/reading-notes/class08)| class08 read |
 |[read09](https://amani-alnobani.github.io/reading-notes/class09)| class09 read |
 |[read10](https://amani-alnobani.github.io/reading-notes/class10)| class10 read |
-|[Read10]| SUMMARY10 |
+|[read11](https://amani-alnobani.github.io/reading-notes/class11)| class11 read |
 |[Read11]| SUMMARY11 |
 |[Read12]| SUMMARY12 |
 |[Read13]| SUMMARY13 |
