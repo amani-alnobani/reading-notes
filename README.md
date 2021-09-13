@@ -58,10 +58,9 @@
 |[read10](https://amani-alnobani.github.io/reading-notes/class10)| class10 read |
 |[read11](https://amani-alnobani.github.io/reading-notes/class11)| class11 read |
 |[read12](https://amani-alnobani.github.io/reading-notes/class12)| class12 read |
-|[Read12]| SUMMARY12 |
-|[Read13]| SUMMARY13 |
-|[Read14a]| SUMMARY14a |
-|[Read14b]| SUMMARY14b |
+|[read13](https://amani-alnobani.github.io/reading-notes/class13)| class13 read |
+|[read14](https://amani-alnobani.github.io/reading-notes/class14)| class14 read |
+|[read15](https://amani-alnobani.github.io/reading-notes/class15)| class15 read |
 
 
 # 401 code
